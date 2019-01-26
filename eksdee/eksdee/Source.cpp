@@ -7,6 +7,8 @@ int main()
 {
 	//cout << "hello world" << endl;
 
-	system("pause");
+	while (true){
+		cout << "hello world";
+	}
 
 }
